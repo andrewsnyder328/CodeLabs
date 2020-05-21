@@ -207,7 +207,7 @@ class Codelab extends HTMLElement {
     this.toggleToolbar_();
 
     if (this.resumed_) {
-      console.log('resumed');
+      console.log('blahblah');
       // TODO Show resume dialog
     }
 
