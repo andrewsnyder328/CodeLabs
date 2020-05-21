@@ -21859,7 +21859,7 @@ Polymer({
       index = '';
     }
     // navigate away to the index page
-    window.location.href = '/' + index;
+    window.location.href = '/CodeLabs/' + index;
   },
 
   _tocItemClass: function (selected, i) {
