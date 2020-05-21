@@ -692,7 +692,7 @@ ul, li {
 }
 
 .about-icon, .search-icon {
-    background-image: url("/images/icons/google-g.svg");
+    background-image: url("../images/icons/google-g.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -704,7 +704,7 @@ ul, li {
 }
 
 .ads-icon {
-    background-image: url("/images/icons/google-ads.svg");
+    background-image: url("../images/icons/google-ads.svg");
 }
 
 .analytics-bg {
@@ -716,7 +716,7 @@ ul, li {
 }
 
 .analytics-icon {
-    background-image: url("/images/icons/google-analytics.svg");
+    background-image: url("../images/icons/google-analytics.svg");
 }
 
 .android-bg, .android-kotlin-bg, .android-tv-bg {
@@ -728,7 +728,7 @@ ul, li {
 }
 
 .android-icon, .android-kotlin-icon, .android-tv-icon {
-    background-image: url("/images/icons/android.svg");
+    background-image: url("../images/icons/android.svg");
 }
 
 .android-auto-bg {
@@ -740,7 +740,7 @@ ul, li {
 }
 
 .android-auto-icon {
-    background-image: url("/images/icons/android-auto.svg");
+    background-image: url("../images/icons/android-auto.svg");
 }
 
 .android-things-bg {
@@ -752,7 +752,7 @@ ul, li {
 }
 
 .android-things-icon {
-    background-image: url("/images/icons/android-things.svg");
+    background-image: url("../images/icons/android-things.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -764,7 +764,7 @@ ul, li {
 }
 
 .android-wear-icon, .wear-icon, .wear-os-icon {
-    background-image: url("/images/icons/wear-os.svg");
+    background-image: url("../images/icons/wear-os.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -776,7 +776,7 @@ ul, li {
 }
 
 .assistant-icon {
-    background-image: url("/images/icons/google-assistant.svg");
+    background-image: url("../images/icons/google-assistant.svg");
 }
 
 .ar-bg, .ar-core-bg, .augmented-reality-bg, .augmented-reality-core-bg {
@@ -788,7 +788,7 @@ ul, li {
 }
 
 .ar-icon, .ar-core-icon, .augmented-reality-icon, .augmented-reality-core-icon {
-    background-image: url("/images/icons/ar-core.svg");
+    background-image: url("../images/icons/ar-core.svg");
 }
 
 .cardboard-bg, .games-bg, .play-games-bg, .vr-bg, .virtualreality-bg, .virtualreality-games-bg, .virtual-reality-bg, .virtual-reality-games-bg {
@@ -800,7 +800,7 @@ ul, li {
 }
 
 .cardboard-icon, .games-icon, .play-games-icon, .vr-icon, .virtualreality-icon, .virtualreality-games-icon, .virtual-reality-icon, .virtual-reality-games-icon {
-    background-image: url("/images/icons/cardboard.svg");
+    background-image: url("../images/icons/cardboard.svg");
 }
 
 .gsuite-bg, .g-suite-bg, .apps-bg {
@@ -812,7 +812,7 @@ ul, li {
 }
 
 .gsuite-icon, .g-suite-icon, .apps-icon {
-    background-image: url("/images/icons/gsuite.svg");
+    background-image: url("../images/icons/gsuite.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -824,7 +824,7 @@ ul, li {
 }
 
 .docs-icon {
-    background-image: url("/images/icons/google-docs.svg");
+    background-image: url("../images/icons/google-docs.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -836,7 +836,7 @@ ul, li {
 }
 
 .drive-icon {
-    background-image: url("/images/icons/google-drive.svg");
+    background-image: url("../images/icons/google-drive.svg");
 }
 
 .sheets-bg, .google-maps-bg, .googlemaps-bg, .maps-bg, .geo-bg {
@@ -848,7 +848,7 @@ ul, li {
 }
 
 .sheets-icon {
-    background-image: url("/images/icons/google-sheets.svg");
+    background-image: url("../images/icons/google-sheets.svg");
 }
 
 .slides-bg {
@@ -860,7 +860,7 @@ ul, li {
 }
 
 .slides-icon {
-    background-image: url("/images/icons/google-slides.svg");
+    background-image: url("../images/icons/google-slides.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -872,7 +872,7 @@ ul, li {
 }
 
 .blockly-icon {
-    background-image: url("/images/icons/blockly.svg");
+    background-image: url("../images/icons/blockly.svg");
 }
 
 .brillo-bg {
@@ -884,7 +884,7 @@ ul, li {
 }
 
 .brillo-icon {
-    background-image: url("/images/icons/brillo.svg");
+    background-image: url("../images/icons/brillo.svg");
 }
 
 .cast-bg, .chromecast-bg, .chrome-cast-bg, .nest-bg {
@@ -896,7 +896,7 @@ ul, li {
 }
 
 .cast-icon, .chromecast-icon, .chrome-cast-icon {
-    background-image: url("/images/icons/cast.svg");
+    background-image: url("../images/icons/cast.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -908,7 +908,7 @@ ul, li {
 }
 
 .chrome-icon, .google-chrome-icon, .googlechrome-icon {
-    background-image: url("/images/icons/chrome.svg");
+    background-image: url("../images/icons/chrome.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -920,7 +920,7 @@ ul, li {
 }
 
 .cloud-icon, .cloud-about-icon, .cloud-general-icon, .cloud-other-icon, .cloud-others-icon, .cloud-platform-icon, .cloud-tools-icon, .cloud-cloud-tools-icon {
-    background-image: url("/images/icons/cloud-platform.svg");
+    background-image: url("../images/icons/cloud-platform.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -932,7 +932,7 @@ ul, li {
 }
 
 .cloud-appengine-icon, .cloud-app-engine-icon {
-    background-image: url("/images/icons/cloud-appengine.svg");
+    background-image: url("../images/icons/cloud-appengine.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -944,7 +944,7 @@ ul, li {
 }
 
 .cloud-bigquery-icon, .cloud-big-query-icon, .bigquery-icon, .big-query-icon {
-    background-image: url("/images/icons/cloud-bigquery.svg");
+    background-image: url("../images/icons/cloud-bigquery.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -956,7 +956,7 @@ ul, li {
 }
 
 .cloud-build-icon {
-    background-image: url("/images/icons/cloud-build.svg");
+    background-image: url("../images/icons/cloud-build.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -968,7 +968,7 @@ ul, li {
 }
 
 .cloud-compute-icon, .cloud-compute-engine-icon {
-    background-image: url("/images/icons/cloud-compute-engine.svg");
+    background-image: url("../images/icons/cloud-compute-engine.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -980,7 +980,7 @@ ul, li {
 }
 
 .cloud-data-icon, .cloud-sql-icon {
-    background-image: url("/images/icons/cloud-sql.svg");
+    background-image: url("../images/icons/cloud-sql.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -992,7 +992,7 @@ ul, li {
 }
 
 .cloud-datalab-icon, .cloud-data-lab-icon {
-    background-image: url("/images/icons/cloud-datalab.svg");
+    background-image: url("../images/icons/cloud-datalab.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1004,7 +1004,7 @@ ul, li {
 }
 
 .cloud-iam-icon {
-    background-image: url("/images/icons/cloud-iam.svg");
+    background-image: url("../images/icons/cloud-iam.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1016,7 +1016,7 @@ ul, li {
 }
 
 .cloud-iot-icon, .cloud-iot-core-icon, .iot-core-icon, .iot-icon {
-    background-image: url("/images/icons/cloud-iot-core.svg");
+    background-image: url("../images/icons/cloud-iot-core.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1028,7 +1028,7 @@ ul, li {
 }
 
 .cloud-key-management-service-icon, .cloud-kms-icon {
-    background-image: url("/images/icons/cloud-key-management-service.svg");
+    background-image: url("../images/icons/cloud-key-management-service.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1040,7 +1040,7 @@ ul, li {
 }
 
 .cloud-ml-icon, .cloud-machine-learning-icon {
-    background-image: url("/images/icons/cloud-machine-learning.svg");
+    background-image: url("../images/icons/cloud-machine-learning.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1052,7 +1052,7 @@ ul, li {
 }
 
 .cloud-monitoring-icon, .cloud-monitor-icon {
-    background-image: url("/images/icons/cloud-monitoring.svg");
+    background-image: url("../images/icons/cloud-monitoring.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1064,7 +1064,7 @@ ul, li {
 }
 
 .cloud-networking-icon, .cloud-network-icon {
-    background-image: url("/images/icons/cloud-networking.svg");
+    background-image: url("../images/icons/cloud-networking.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1076,7 +1076,7 @@ ul, li {
 }
 
 .cloud-security-icon, .cloud-security-command-center-icon {
-    background-image: url("/images/icons/cloud-security-command-center.svg");
+    background-image: url("../images/icons/cloud-security-command-center.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1088,7 +1088,7 @@ ul, li {
 }
 
 .cloud-data-icon, .cloud-sql-icon {
-    background-image: url("/images/icons/cloud-sql.svg");
+    background-image: url("../images/icons/cloud-sql.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1100,7 +1100,7 @@ ul, li {
 }
 
 .cloud-web-icon, .web-icon {
-    background-image: url("/images/icons/web.svg");
+    background-image: url("../images/icons/web.svg");
 }
 
 .design-bg {
@@ -1112,7 +1112,7 @@ ul, li {
 }
 
 .design-icon {
-    background-image: url("/images/icons/design.svg");
+    background-image: url("../images/icons/design.svg");
 }
 
 .firebase-bg, .firebase-web-bg {
@@ -1124,7 +1124,7 @@ ul, li {
 }
 
 .firebase-icon, .firebase-web-icon {
-    background-image: url("/images/icons/firebase.svg");
+    background-image: url("../images/icons/firebase.svg");
 }
 
 .flutter-bg, .flutter-firebase-bg, .flutter-android-bg, .design-flutter-bg {
@@ -1136,7 +1136,7 @@ ul, li {
 }
 
 .flutter-icon, .flutter-firebase-icon, .flutter-android-icon, .design-flutter-icon {
-    background-image: url("/images/icons/flutter.svg");
+    background-image: url("../images/icons/flutter.svg");
 }
 
 .sheets-bg, .google-maps-bg, .googlemaps-bg, .maps-bg, .geo-bg {
@@ -1148,7 +1148,7 @@ ul, li {
 }
 
 .google-maps-icon, .googlemaps-icon, .maps-icon, .geo-icon {
-    background-image: url("/images/icons/google-maps.svg");
+    background-image: url("../images/icons/google-maps.svg");
 }
 
 .cast-bg, .chromecast-bg, .chrome-cast-bg, .nest-bg {
@@ -1160,7 +1160,7 @@ ul, li {
 }
 
 .nest-icon {
-    background-image: url("/images/icons/nest.svg");
+    background-image: url("../images/icons/nest.svg");
 }
 
 .openthread-bg, .open-thread-bg {
@@ -1172,7 +1172,7 @@ ul, li {
 }
 
 .openthread-icon, .open-thread-icon {
-    background-image: url("/images/icons/openthread.svg");
+    background-image: url("../images/icons/openthread.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1184,7 +1184,7 @@ ul, li {
 }
 
 .about-icon, .search-icon {
-    background-image: url("/images/icons/google-g.svg");
+    background-image: url("../images/icons/google-g.svg");
 }
 
 .slurm-bg, .hpc-bg, .cloud-hpc-bg {
@@ -1196,7 +1196,7 @@ ul, li {
 }
 
 .slurm-icon, .hpc-icon, .cloud-hpc-icon {
-    background-image: url("/images/icons/slurm.svg");
+    background-image: url("../images/icons/slurm.svg");
 }
 
 .tensorflow-bg, .tensor-flow-bg {
@@ -1208,7 +1208,7 @@ ul, li {
 }
 
 .tensorflow-icon, .tensor-flow-icon {
-    background-image: url("/images/icons/tensorflow.svg");
+    background-image: url("../images/icons/tensorflow.svg");
 }
 
 .unity-bg {
@@ -1220,7 +1220,7 @@ ul, li {
 }
 
 .unity-icon {
-    background-image: url("/images/icons/unity.svg");
+    background-image: url("../images/icons/unity.svg");
 }
 
 .weave-bg {
@@ -1232,7 +1232,7 @@ ul, li {
 }
 
 .weave-icon {
-    background-image: url("/images/icons/weave.svg");
+    background-image: url("../images/icons/weave.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1244,7 +1244,7 @@ ul, li {
 }
 
 .android-wear-icon, .wear-icon, .wear-os-icon {
-    background-image: url("/images/icons/wear-os.svg");
+    background-image: url("../images/icons/wear-os.svg");
 }
 
 .about-bg, .ads-bg, .android-wear-bg, .assistant-bg, .docs-bg, .drive-bg, .blockly-bg, .chrome-bg, .google-chrome-bg, .googlechrome-bg, .cloud-bg, .cloud-about-bg, .cloud-general-bg, .cloud-other-bg, .cloud-others-bg, .cloud-platform-bg, .cloud-tools-bg, .cloud-cloud-tools-bg, .cloud-appengine-bg, .cloud-app-engine-bg, .cloud-bigquery-bg, .cloud-big-query-bg, .bigquery-bg, .big-query-bg, .cloud-build-bg, .cloud-compute-bg, .cloud-compute-engine-bg, .cloud-data-bg, .cloud-datalab-bg, .cloud-data-lab-bg, .cloud-iam-bg, .cloud-iot-bg, .cloud-iot-core-bg, .iot-core-bg, .iot-bg, .cloud-key-management-service-bg, .cloud-kms-bg, .cloud-ml-bg, .cloud-machine-learning-bg, .cloud-monitoring-bg, .cloud-monitor-bg, .cloud-networking-bg, .cloud-network-bg, .cloud-security-bg, .cloud-security-command-center-bg, .cloud-sql-bg, .cloud-web-bg, .search-bg, .wear-bg, .wear-os-bg, .web-bg {
@@ -1256,7 +1256,7 @@ ul, li {
 }
 
 .cloud-web-icon, .web-icon {
-    background-image: url("/images/icons/web.svg");
+    background-image: url("../images/icons/web.svg");
 }
 
 .sample-bg {
