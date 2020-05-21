@@ -1268,7 +1268,7 @@ ul, li {
 }
 
 .sample-icon {
-    background-image: url("/images/icons/sample.svg");
+    background-image: url("../images/icons/sample.svg");
 }
 
 #cards {
