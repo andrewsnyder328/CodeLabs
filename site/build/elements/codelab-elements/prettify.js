@@ -1127,7 +1127,6 @@ var prettyPrint;
 
     node.appendChild(ol);
   }
-
   /**
    * Breaks {@code job.sourceCode} around style boundaries in
    * {@code job.decorations} and modifies {@code job.sourceNode} in place.
@@ -1281,7 +1280,6 @@ var prettyPrint;
       }
     }
   }
-
   function langHandlerForExtension(extension, source) {
     if (!(extension && langHandlerRegistry.hasOwnProperty(extension))) {
       // Treat it as markup if the first non whitespace character is a < and

@@ -1269,7 +1269,6 @@ var prettyPrint;
       }
     }
   }
-
   function langHandlerForExtension(extension, source) {
     if (!(extension && langHandlerRegistry.hasOwnProperty(extension))) {
       // Treat it as markup if the first non whitespace character is a < and
@@ -1428,11 +1427,9 @@ var prettyPrint;
   function $prettyPrint(opt_whenDone, opt_root) {
     var root = opt_root || document.body;
     var doc = root.ownerDocument || document;
-
     function byTagName(tn) {
       return root.getElementsByTagName(tn);
     }
-
     // fetch a list of nodes to rewrite
     var codeSegments = [byTagName('pre'), byTagName('code'), byTagName('xmp')];
     var elements = [];
